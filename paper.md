@@ -212,6 +212,9 @@ The framework remains conceptual and incomplete in several respects.
 
 ### 6.1 Formal Definition of Φ
 
+**A note on circularity:**  
+One might observe that Φ is defined via "traversal" and "inference pathways," and these concepts themselves seem to presuppose some notion of intelligence or rules of reasoning. This is intentional. The framework does not attempt to define Φ from first principles without remainder. Rather, it specifies a relational constraint: any viable definition of Φ must be such that I = C × Φ(S, St, W) yields meaningful results. Finding a non-circular, computable definition of Φ is precisely the open problem stated here—not a hidden flaw of the framework.
+
 The most significant open problem concerns the formalization of Φ.
 
 Future work may explore graph-theoretic, probabilistic, or algorithmic approaches for defining and measuring traversable inference spaces.
