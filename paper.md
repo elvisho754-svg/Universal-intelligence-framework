@@ -1,6 +1,6 @@
 # A Universal Structural Framework for Intelligence
 
-**Author:** Elvis Ho  
+**Author:** Ho Tsz Shing (Elvis Ho)
 **Date:** March 2026
 
 ---
